@@ -1,4 +1,4 @@
-# 
+# elite uniswap trading bot Addon | transaction-batching + gas-optimization offers the most advanced uniswap trading bot, with transaction-batching and gas-optimization. Ideal for
 
 
 
